@@ -1,0 +1,17 @@
+1. Open one of the tic tac toe java files in your chosen IDE. 
+    (descriptions of each file is below)
+2. Make sure the package syntax on the first line is correct.
+3. Click run.
+4. The rest should be taken care of. 
+5. You will provide user input via the console in an x y format
+
+
+
+TicTacToe.java =
+     tictactoe with minimax algorithm but no pruning
+
+TicTacToePruning.java = 
+     tictactoe with minimax algorithm and pruning
+
+TicTacToePruningPseudoCoded.java = 
+     tictactoe with minimax algorithm and pruning that follows the class pseudo code
